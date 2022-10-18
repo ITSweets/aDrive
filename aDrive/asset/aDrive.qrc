@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/aDriveBasic.ui</file>
+        <file>image/close.svg</file>
+        <file>style/aDriveBasic.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+#aDriveClose
+{
+    border: none;
+    border-radius: 2px;
+    border-image: url(:/image/close.svg);
+}
+
+#aDriveClose:hover
+{
+    background-color: rgba(145, 141, 254, 255);
+}
